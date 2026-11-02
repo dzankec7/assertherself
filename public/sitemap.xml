@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/dzankec7/dzenana.git/about/</loc>
+    <lastmod>2026-11-02T22:49:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dzankec7/dzenana.git/</loc>
+    <lastmod>2026-11-02T22:49:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dzankec7/dzenana.git/posts/</loc>
+    <lastmod>2026-11-02T22:49:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dzankec7/dzenana.git/posts/why-i-started-this-blog/</loc>
+    <lastmod>2026-11-02T22:49:40+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dzankec7/dzenana.git/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dzankec7/dzenana.git/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,46 @@
+baseURL = "https://github.com/dzankec7/dzenana.git"
+languageCode = "en-us"
+title = "Assert Herself"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Your Name"
+  description = "Test automation, career growth and mentoring, from a Senior SDET's perspective."
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm ..."
+    Content = "Senior SDET. Writing about test automation, growing in QA, and women in tech."
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/d%C5%BEenana-srabovi%C4%87-suba%C5%A1i%C4%87-7577a3196/"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/dzankec7/dzenana.git"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 3
+
+[markup.highlight]
+  noClasses = false
