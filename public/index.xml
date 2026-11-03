@@ -2,25 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Assert Herself</title>
-    <link>http://localhost:1313/dzankec7/dzenana.git/</link>
+    <link>http://localhost:60073/dzankec7/assertherself/</link>
     <description>Recent content on Assert Herself</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 22:49:50 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/dzankec7/dzenana.git/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/dzankec7/dzenana.git/about/</link>
-      <pubDate>Mon, 02 Nov 2026 22:49:50 +0100</pubDate>
-      <guid>http://localhost:1313/dzankec7/dzenana.git/about/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 22:49:40 +0100</lastBuildDate>
+    <atom:link href="http://localhost:60073/dzankec7/assertherself/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Started This Blog</title>
-      <link>http://localhost:1313/dzankec7/dzenana.git/posts/why-i-started-this-blog/</link>
+      <link>http://localhost:60073/dzankec7/assertherself/posts/why-i-started-this-blog/</link>
       <pubDate>Mon, 02 Nov 2026 22:49:40 +0100</pubDate>
-      <guid>http://localhost:1313/dzankec7/dzenana.git/posts/why-i-started-this-blog/</guid>
-      <description></description>
+      <guid>http://localhost:60073/dzankec7/assertherself/posts/why-i-started-this-blog/</guid>
+      <description>&lt;p&gt;On my first days at a new job, a colleague asked me: “Are you QA or QAA?”&lt;/p&gt;
+&lt;p&gt;(If you work in testing, you know the struggle: QA, QAA, QE, SDET, Test Engineer, Automation Engineer… we have more job titles than most teams have test environments.)&lt;/p&gt;
+&lt;p&gt;I answered quickly: “QA.” He just shook his head and said, “Super.” The ironic kind of super.&lt;/p&gt;
+&lt;p&gt;Only later did I realize what he meant. He assumed I was “just” a manual tester. In that moment I didn’t even understand the question, and I didn’t correct him. Was it nerves? Was it the quiet weight of stereotypes about women in IT? Why did I lose my confidence right when I needed it?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:60073/dzankec7/assertherself/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60073/dzankec7/assertherself/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Dženana&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a Senior SDET from Bosnia and Herzegovina, and I&amp;rsquo;ve spent the last
+six years making sure software does what it promises, and helping the
+people who build it get better at it too.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve worked across the whole testing stack: web automation with
+Playwright, Cypress and Selenium, API testing, mobile and performance
+testing. Lately I&amp;rsquo;ve been exploring how AI can help engineering teams
+move faster without letting quality slip.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
