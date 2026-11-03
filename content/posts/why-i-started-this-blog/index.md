@@ -1,6 +1,6 @@
 +++
 date = '2026-11-02T22:49:40+01:00'
-draft = true
+draft = false
 title = 'Why I Started This Blog'
 +++
 On my first days at a new job, a colleague asked me: “Are you QA or QAA?”
