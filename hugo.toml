@@ -21,9 +21,6 @@ theme = "PaperMod"
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/d%C5%BEenana-srabovi%C4%87-suba%C5%A1i%C4%87-7577a3196/"
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
 
 [[menu.main]]
   name = "Posts"
